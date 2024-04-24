@@ -1,0 +1,6 @@
+  inside-new-branch               [m fd5a28c [[34morigin/inside-new-branch[m: ahead 2, behind 1] third commit
+  main                            [m 3bd18fd [[34morigin/main[m] scnd commit
+* [32mnew-branch                      [m fd5a28c [[34morigin/new-branch[m] third commit
+  [31mremotes/origin/inside-new-branch[m 3bd18fd scnd commit
+  [31mremotes/origin/main             [m 3bd18fd scnd commit
+  [31mremotes/origin/new-branch       [m fd5a28c third commit
